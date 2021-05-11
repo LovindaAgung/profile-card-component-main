@@ -14,8 +14,10 @@
 }
 body{
     background:
-    url(/images/bg-pattern-top.svg) top -500px right 50vw no-repeat,
-    url(/images/bg-pattern-bottom.svg) bottom -500px left 50vw no-repeat,
+    // url(/images/bg-pattern-top.svg) top -500px right 50vw no-repeat,
+    // url(/images/bg-pattern-bottom.svg) bottom -500px left 50vw no-repeat,
+    url(../../images/bg-pattern-top.svg) top -500px right 50vw no-repeat,
+    url(../../images/bg-pattern-bottom.svg) bottom -500px left 50vw no-repeat,
     var(--background);
     // min-height: 100vh;
     position: relative;
